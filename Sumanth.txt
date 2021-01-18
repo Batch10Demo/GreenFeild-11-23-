@@ -7,6 +7,8 @@ class Example
 
 		System.out.println("Green2 Branch");
 		
+		System.out.println("This is the Merging");
+		
         }
 
 }
